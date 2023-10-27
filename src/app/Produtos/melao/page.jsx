@@ -1,4 +1,4 @@
-import Produtos from "@/components/Produtos/Produtos";
+import Produtos from "@/components/Produtos/Produtos"
 
 export default function Melao() {
   return (
